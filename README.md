@@ -11,6 +11,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): Relaxing game about doodling castles. (bevy_ecs, custom renderer)
+- [Toroban](https://store.steampowered.com/app/1961850/Toroban/): Infinitely wrapping puzzle game.
 - [LongStory 2]( https://store.steampowered.com/app/2427820/LongStory_2): Friendliest dating sim on the planet: Sequel to the award-winning visual novel LongStory
 - [Gob Johnson's Downhill Marmalade](https://store.steampowered.com/app/3329170/Gob_Johnsons_Downhill_Marmalade/): Fast-paced slalom 'em up fantasy roguelite
 - [Death Trip](https://store.steampowered.com/app/2909010/DEATHTRIP/): stylish, high-octane FPS
