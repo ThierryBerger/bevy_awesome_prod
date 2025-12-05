@@ -12,6 +12,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): Relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Toroban](https://store.steampowered.com/app/1961850/Toroban/): Infinitely wrapping puzzle game.
+- [Simulo](https://store.steampowered.com/app/3291520/Simulo/): 2D physics sandbox game.
 - [LongStory 2]( https://store.steampowered.com/app/2427820/LongStory_2): Friendliest dating sim on the planet: Sequel to the award-winning visual novel LongStory
 - [Gob Johnson's Downhill Marmalade](https://store.steampowered.com/app/3329170/Gob_Johnsons_Downhill_Marmalade/): Fast-paced slalom 'em up fantasy roguelite
 - [Death Trip](https://store.steampowered.com/app/2909010/DEATHTRIP/): stylish, high-octane FPS
@@ -74,7 +75,6 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [Sentinels Inc.](https://store.steampowered.com/app/2302620/Sentinels_Inc): Online tag team platform fighting game
 - [Exofactory](https://exofactory.net/): Factory Automation Game with choice-driven Mechanics
 - [Sunny Shores](https://store.steampowered.com/app/3789870/Sunny_Shores/): Open world sandbox survival game with blocks and Lofi atmosphere.
-- [Toroban](https://store.steampowered.com/app/1961850/Toroban/): Infinitely wrapping puzzle game
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
 - [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity
 - [Untold dawn](https://blog.untold-dawn.com/): Roleplay required text-based multiplayer game
