@@ -8,6 +8,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
+- [The Portsmoor Abysm](https://store.steampowered.com/app/4025180/Abysm/): Atmospheric physics based puzzle game with action elements
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): Relaxing game about doodling castles. (bevy_ecs, custom renderer)
@@ -89,7 +90,6 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 - [INSANIO](https://store.steampowered.com/app/4177650/INSANIO/): Autobattler where you send misfits into vehicular combat
 - [Splash Rats](https://subscribepage.io/KKZbQM): co-op platformer with liquid physics
-- [Abysm](https://store.steampowered.com/app/4025180/Abysm/): Atmospheric physics based puzzle game with action elements
 - [Signs of Danger](https://store.steampowered.com/app/3816900/Signs_of_Danger/): Muultiplayer falling sand game ; bevy crates used, windowing + graphics is macroquad
 
 [^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me.
