@@ -6,6 +6,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 
 - [Foresight Spatial Labs](https://www.fslabs.ca/): voumetric streaming renderers, CAD, GPU physics, and spatial mathematics
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
+- [Weather Dragger](https://store.steampowered.com/app/4254840/Weather_Dragger/): strategy-simulation game about growing a village by controlling the weather.
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 - [The Portsmoor Abysm](https://store.steampowered.com/app/4025180/Abysm/): Atmospheric physics based puzzle game with action elements
