@@ -40,7 +40,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [zoolitaire](https://apps.apple.com/app/zoolitaire/id6479218498): Peg Solitaire but with cute zoo animals
 - [Membooster](https://apps.apple.com/gb/app/membooster/id6478470117): Memory boosting game
 - [UFO snowboard](https://apps.apple.com/us/app/ufo-snowboard/id6474542185): 2d speed platformer
- 
+
 # Backend
 
 - https://nebulae.world: MMO Strategy
@@ -92,6 +92,7 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [INSANIO](https://store.steampowered.com/app/4177650/INSANIO/): Autobattler where you send misfits into vehicular combat
 - [Splash Rats](https://subscribepage.io/KKZbQM): co-op platformer with liquid physics
 - [Signs of Danger](https://store.steampowered.com/app/3816900/Signs_of_Danger/): Muultiplayer falling sand game ; bevy crates used, windowing + graphics is macroquad
+- [Tzelem](https://store.steampowered.com/app/4556050/Tzelem/): An exploration-based action dungeon-crawler, where you use cards to change the world and yourself.
 
 [^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me.
 [^2]: This list is edited manually, I'm open to discussions in pull requests or issues.
